@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gventure Safari</title>
+</head>
+<body>
+  <h1>Karibu Gventure Safari 🌍</h1>
+  <p>Website yako iko live!</p>
+</body>
+</html>
