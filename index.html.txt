@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gventure Explora Safari & Trekking</title>
+<style>
+body{font-family:Arial;margin:0;background:#f4f6f5;color:#222;}
+header{background:linear-gradient(135deg,#0b3d2e,#145c43);color:white;text-align:center;padding:40px 20px;}
+header h1{margin:0;font-size:30px;}
+.btn{background:#ffcc00;color:#000;padding:12px 18px;border-radius:8px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:10px;}
+section{padding:25px;max-width:1000px;margin:auto;}
+h2{color:#0b3d2e;}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;}
+.card{background:white;padding:15px;border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,0.1);}
+.price{color:#b8860b;font-weight:bold;}
+footer{text-align:center;background:#0b3d2e;color:white;padding:20px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Gventure Explora Safari & Trekking</h1>
+<p>Kilimanjaro • Serengeti • Ngorongoro • Tarangire • Manyara • Zanzibar</p>
+<a class="btn" href="https://wa.me/255000000000">📲 Book on WhatsApp</a>
+</header>
+
+<section>
+<h2>Safari Packages</h2>
+<div class="grid">
+
+<div class="card">
+<h3>3 Days Serengeti Safari</h3>
+<p>Wildlife adventure in Serengeti National Park.</p>
+<p class="price">From $900</p>
+</div>
+
+<div class="card">
+<h3>4 Days Ngorongoro & Tarangire</h3>
+<p>Crater tour + elephant herds experience.</p>
+<p class="price">From $750</p>
+</div>
+
+<div class="card">
+<h3>6 Days Northern Circuit</h3>
+<p>Serengeti, Ngorongoro, Tarangire & Manyara.</p>
+<p class="price">From $1500</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>Zanzibar Packages</h2>
+<div class="grid">
+
+<div class="card">
+<h3>3 Days Zanzibar Escape</h3>
+<p>Beach relaxation at Nungwi/Kendwa.</p>
+<p class="price">From $450</p>
+</div>
+
+<div class="card">
+<h3>5 Days Zanzibar Adventure</h3>
+<p>Stone Town, Spice Tour & dolphin watching.</p>
+<p class="price">From $750</p>
+</div>
+
+<div class="card">
+<h3>7 Days Safari + Zanzibar</h3>
+<p>Safari + beach holiday combo.</p>
+<p class="price">From $1800</p>
+</div>
+
+</div>
+</section>
+
+<footer>
+<p>© 2026 Gventure Explora Safari & Trekking</p>
+</footer>
+
+</body>
+</html>
